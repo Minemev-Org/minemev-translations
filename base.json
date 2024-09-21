@@ -1,24 +1,72 @@
 {
     "base": {
+        "explore": "Explore",
+        "categories": "Categories",
+        "servers": "Servers",
+        "cube_helper": "Cube Helper",
+        "app_advice": "Download the app",
+        "logintext": "login",
         
-        "explore":"Explore",
-        "categories":"Categories",
-        "servers":"Servers",
-        "cube_helper":"Cube Helper"
+        "new_post": "New post",
+        "sub_menu_profile": "Profile",
+        "sub_menu_report": "Report a problem",
+        "sub_menu_favorites": "Favorites",
+        "sub_menu_logout": "Logout",
+        
+        "footer_copyright":"Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
+        "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
+        "footer_or" : "or ",
+        "footer_disclaimer_2":". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
+
+
+        "footer_socials": "Socials",
+
+        "footer_about":"About Minemev",
+            "about_terms" : "Terms and Conditions",
+            "about_faq": "Frequently Asked Questions",
+            "about_about_us": "About us",
+            "about_contact":"Contact",
+
+        "footer_website":"website",
+            "website_report" : "Report a problem",
+            "website_suggest":"Suggest changes",
+            "website_tickets" :"Tickets"
+        
+        
     },
-    "en": {},
     "es": {
-        "explore":"Explorar",
-        "categories":"Categorias",
-        "servers":"Servidores",
-        "cube_helper":"Cube Helper"
+        "explore": "Explorar",
+        "categories": "Categorías",
+        "servers": "Servidores",
+        "cube_helper": "Cube Helper",
+        "app_advice": "Descarga la app",
+        "logintext": "Iniciar sesión",
+
+        "new_post": "Nueva publicación",
+        "sub_menu_profile": "Perfil",
+        "sub_menu_report": "Reportar un problema",
+        "sub_menu_favorites": "Favoritos",
+        "sub_menu_logout": "Cerrar sesión",
+
+        "footer_copyright": "Copyright © 2022-2024 Minemev. Todos los derechos reservados. El contenido generado por los usuarios pertenece a sus creadores.",
+        "footer_disclaimer_1": "Esta página no está oficialmente asociada con ",
+        "footer_or": "o ",
+        "footer_disclaimer_2": ". Todo el contenido es responsabilidad de sus creadores. Minemev opera de manera independiente y no está vinculado a la página oficial de Minecraft.",
+
+        "footer_socials": "Redes sociales",
+
+        "footer_about": "Acerca de Minemev",
+            "about_terms": "Términos y condiciones",
+            "about_faq": "Preguntas frecuentes",
+            "about_about_us": "Sobre nosotros",
+            "about_contact": "Contacto",
+        "footer_website": "sitio web",
+            "website_report": "Reportar un problema",
+            "website_suggest": "Sugerir cambios",
+            "website_tickets": "Tickets"
         
     },
     "zh-hans": {
-        "explore": "发现",
-        "categories": "类别",
-        "servers": "服务器",
-        "cube_helper": "方块助手"
     },
     "zh-hant": {},
     "fr": {},
