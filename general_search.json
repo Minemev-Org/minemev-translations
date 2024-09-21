@@ -1,0 +1,20 @@
+{
+    "base": {
+        "version_input": "Version",
+        "sortby_input": "Sort by",
+        "search_input": "Search"
+    },
+    "en": {
+       
+    },
+    "es": {
+        "version_input": "Versiones",
+        "sortby_input": "Ordenar por",
+        "search_input": "Buscar"
+    },
+    "zh-hans": {},
+    "zh-hant": {},
+    "fr": {},
+    "ja": {},
+    "ko": {}
+}

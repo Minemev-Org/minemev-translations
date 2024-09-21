@@ -1,0 +1,27 @@
+{
+    "base": {
+        
+        "explore":"Explore",
+        "categories":"Categories",
+        "servers":"Servers",
+        "cube_helper":"Cube Helper"
+    },
+    "en": {},
+    "es": {
+        "explore":"Explorar",
+        "categories":"Categorias",
+        "servers":"Servidores",
+        "cube_helper":"Cube Helper"
+        
+    },
+    "zh-hans": {
+        "explore": "发现",
+        "categories": "类别",
+        "servers": "服务器",
+        "cube_helper": "方块助手"
+    },
+    "zh-hant": {},
+    "fr": {},
+    "ja": {},
+    "ko": {}
+}
