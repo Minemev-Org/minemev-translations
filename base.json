@@ -66,6 +66,40 @@
             "website_tickets": "Tickets"
         
     },
+    "ko": {
+        "explore": "찾기",
+        "categories": "카테고리",
+        "servers": "서버",
+        "cube_helper": "Cube Helper",
+        "app_advice": "앱 다운로드",
+        "logintext": "로그인",
+        
+        "new_post": "새 포스트",
+        "sub_menu_profile": "프로필",
+        "sub_menu_report": "문제 신고",
+        "sub_menu_favorites": "좋아요 표시한 글",
+        "sub_menu_logout": "로그아웃",
+        
+        "footer_copyright":"Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
+        "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
+        "footer_or" : "or ",
+        "footer_disclaimer_2":". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
+
+
+        "footer_socials": "소셜",
+
+        "footer_about":"Minemev 소개",
+            "about_terms" : "이용 약관",
+            "about_faq": "자주 묻는 질문",
+            "about_about_us": "소개",
+            "about_contact":"연락처",
+
+        "footer_website":"웹사이트",
+            "website_report" : "문제 신고",
+            "website_suggest":"개선 문의",
+            "website_tickets" :"Tickets"
+ },
+    
     "zh-hans": {
     },
     "zh-hant": {},
