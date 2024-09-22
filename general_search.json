@@ -1,16 +1,26 @@
 {
     "base": {
         "version_input": "Version",
+        "version_all": "All Versions",
         "sortby_input": "Sort by",
-        "search_input": "Search"
-    },
-    "en": {
+        "search_input": "Search",
+
+        "input_popular": "popular",
+        "input_newest": "newest",
+        "input_oldest": "oldest",
+        "input_downloads": "downloads"
        
     },
     "es": {
-        "version_input": "Versiones",
+        "version_input": "Versión",
+        "version_all": "Todas las versiones",
         "sortby_input": "Ordenar por",
-        "search_input": "Buscar"
+        "search_input": "Buscar",
+
+        "input_popular": "Popular",
+        "input_newest": "Más reciente",
+        "input_oldest": "Más antiguo",
+        "input_downloads": "Descargas"
     },
     "zh-hans": {},
     "zh-hant": {},
