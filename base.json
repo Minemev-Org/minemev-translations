@@ -101,6 +101,37 @@
  },
     
     "zh-hans": {
+        "explore": "发现",
+        "categories": "分类",
+        "servers": "服务器",
+        "cube_helper": "Cube Helper",
+        "app_advice": "下载软件",
+        "logintext": "登录",
+        
+        "new_post": "新帖子",
+        "sub_menu_profile": "主页",
+        "sub_menu_report": "提交问题",
+        "sub_menu_favorites": "收藏",
+        "sub_menu_logout": "登出",
+        
+        "footer_copyright":"Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
+        "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
+        "footer_or" : "or ",
+        "footer_disclaimer_2":". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
+
+
+        "footer_socials": "社交媒体",
+
+        "footer_about":"关于 Minemev",
+            "about_terms" : "条款和条件",
+            "about_faq": "常见问题",
+            "about_about_us": "关于我们",
+            "about_contact":"联系",
+
+        "footer_website":"网站",
+            "website_report" : "提交问题",
+            "website_suggest":"修改建议",
+            "website_tickets" :"票"
     },
     "zh-hant": {},
     "fr": {},
