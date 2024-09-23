@@ -135,5 +135,40 @@
     },
     "zh-hant": {},
     "fr": {},
-    "ja": {}
+    "ja": {
+
+        "explore": "探索する",
+        "categories": "カテゴリー",
+        "servers": "サーバー",
+        "cube_helper": "キューブヘルパー",
+        "app_advice": "アプリをダウンロード",
+        "logintext": "ログイン",
+        
+        "new_post": "新しい投稿",
+        "sub_menu_profile": "プロフィール",
+        "sub_menu_report": "問題を報告",
+        "sub_menu_favorites": "お気に入り",
+        "sub_menu_logout": "ログアウト",
+        
+        "footer_copyright":"Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
+        "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
+        "footer_or" : "or ",
+        "footer_disclaimer_2":". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
+
+
+        "footer_socials": "SNS",
+
+        "footer_about":"Minemevとは",
+            "about_terms" : "利用規約",
+            "about_faq": "よくある質問",
+            "about_about_us": "私たちについて",
+            "about_contact":"連絡",
+
+        "footer_website":"ウェブサイト",
+            "website_report" : "問題を報告",
+            "website_suggest":"お問い合わせ",
+            "website_tickets" :"チケット"
+
+
+    }
 }
