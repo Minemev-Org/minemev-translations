@@ -8,7 +8,9 @@
         "input_popular": "popular",
         "input_newest": "newest",
         "input_oldest": "oldest",
-        "input_downloads": "downloads"
+        "input_downloads": "downloads",
+
+        "user_reference":"By"
        
     },
     "es": {
@@ -20,7 +22,9 @@
         "input_popular": "Popular",
         "input_newest": "Más reciente",
         "input_oldest": "Más antiguo",
-        "input_downloads": "Descargas"
+        "input_downloads": "Descargas",
+
+        "user_reference":"Por"
     },
     "zh-hans": {},
     "zh-hant": {},
