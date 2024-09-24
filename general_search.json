@@ -26,7 +26,18 @@
 
         "user_reference":"Por"
     },
-    "zh-hans": {},
+    "zh-hans": {
+        "version_input": "版本",
+        "version_all": "所有版本",
+        "sortby_input": "排序",
+        "search_input": "搜索",
+
+        "input_popular": "点赞量",
+        "input_newest": "最新",
+        "input_oldest": "最旧",
+        "input_downloads": "下载量"
+       
+    },
     "zh-hant": {},
     "fr": {},
     "ja": {},
