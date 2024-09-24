@@ -34,6 +34,18 @@
         "input_downloads": "下载量"
        
     },
+    "ko": {
+        "version_input": "버전",
+        "version_all": "전체",
+        "sortby_input": "정렬",
+        "search_input": "검색",
+
+        "input_popular": "인기순",
+        "input_newest": "최신순",
+        "input_oldest": "과거순",
+        "input_downloads": "다운로드 수"
+       
+    },
     "zh-hant": {},
     "fr": {},
     "ja": {},
