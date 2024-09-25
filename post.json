@@ -94,52 +94,7 @@
         "translation_message":"no encuentras tu traduccion?",
         "translation_bbtn": "¡Hazla!"
     },
-    "zh-hans": {
-        "owner_reference": "由",
-    
-        "tab_overview": "概览",
-        "file": "文件",
-        "file_plural": "文件",
-    
-        "download_plural": "下载",
-        "download": "下载",
-    
-        "tab_translations": "翻译",
-        "arch_change_tags": "更改标签",
-    
-        "report": "举报",
-        "edit_post": "编辑帖子",
-        "other_posts": "其他发布 由",
-    
-        "comments": "评论",
-        "send_comments": "发送评论",
-        "new_comment": "新评论",
-        "comment_placeholder": "说点什么...",
-    
-        "file_table_verified": "已验证",
-    
-        "file_table_description": "描述",
-        "file_table_versions": "版本",
-        "file_table_size": "大小",
-        "file_table_download": "下载",
-    
-        "translation_table_user": "用户",
-        "translation_table_lang": "语言",
-        "translation_table_Date": "日期",
-        "translation_table_times": "翻译次数",
-        "translation_table_options": "选项",
-        "option_delete": "删除",
-        "option_edit": "编辑",
-    
-        "verif_fail": "此帖子尚未经过分析，因此我们无法保证其安全性。",
-        
-        "verif_succes": "已验证安全",
-    
-        "translation_message": "找不到翻译？",
-        "translation_bbtn": "创建一个",
-    
-        "add_note": "添加备注"
-    },
+    "zh-hans": {},
     "zh-hant": {},
     "fr": {},
     "ja": {},
