@@ -94,7 +94,55 @@
         "translation_message":"no encuentras tu traduccion?",
         "translation_bbtn": "¡Hazla!"
     },
-    "zh-hans": {},
+    "zh-hans": {
+                "owner_reference": "发布者",
+
+        "tab_overview": "概述",
+        "file": "文件",
+        "file_plural" : "文件",
+
+        "download_plural":"下载",
+        "download":"下载",
+
+        "tab_translations": "翻译",
+        "arch_change_tags" :"切换标签",
+
+        "report":"举报",
+        "edit_post" :"编辑帖子",
+        "other_posts" : "他的其他帖子",
+
+        "comments":"评论",
+        "send_comments": "添加评论",
+        "new_comment":"新评论",
+        "comment_placeholder": "说点什么...",
+
+        "file_table_verified":"已验证",
+       
+        "file_table_description":"简介",
+        "file_table_versions":"游戏版本",
+        "file_table_size":"文件大小",
+        "file_table_download":"下载",
+
+        "translation_table_user":"用户",
+        "translation_table_lang":"语言",
+        "translation_table_Date":"日期",
+        "translation_table_times":"翻译次数",
+        "translation_table_options":"选项",
+            "option_delete": "删除",
+            "option_edit":"修改",            
+        "select_option": "选择翻译",
+
+
+        "verif_fail":"本帖尚未经过验证，因此我们无法保证其安全性。",
+
+        "verif_succes": "已验证安全",
+
+        "translation_message":"找不到翻译？",
+        "translation_bbtn":"自己做一个",
+
+        "add_note" : "添加说明"
+
+    },
     "zh-hant": {},
     "fr": {},
     "ja": {},
