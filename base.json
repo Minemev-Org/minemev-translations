@@ -1,174 +1,164 @@
 {
-    "base": {
-        "explore": "Explore",
-        "categories": "Categories",
-        "servers": "Servers",
-        "cube_helper": "Cube Helper",
-        "app_advice": "Download the app",
-        "logintext": "login",
-        
-        "new_post": "New post",
-        "sub_menu_profile": "Profile",
-        "sub_menu_report": "Report a problem",
-        "sub_menu_favorites": "Favorites",
-        "sub_menu_logout": "Logout",
-        
-        "footer_copyright":"Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
-        "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
-        "footer_or" : "or ",
-        "footer_disclaimer_2":". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
+  "base": {
+    "explore": "Explore",
+    "categories": "Categories",
+    "servers": "Servers",
+    "cube_helper": "Cube Helper",
+    "app_advice": "Download the app",
+    "logintext": "login",
 
+    "new_post": "New post",
+    "sub_menu_profile": "Profile",
+    "sub_menu_report": "Report a problem",
+    "sub_menu_favorites": "Favorites",
+    "sub_menu_logout": "Logout",
 
-        "footer_socials": "Socials",
+    "footer_copyright": "Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
+    "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
+    "footer_or": "or ",
+    "footer_disclaimer_2": ". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
 
-        "footer_about":"About Minemev",
-            "about_terms" : "Terms and Conditions",
-            "about_faq": "Frequently Asked Questions",
-            "about_about_us": "About us",
-            "about_contact":"Contact",
+    "footer_socials": "Socials",
 
-        "footer_website":"website",
-            "website_report" : "Report a problem",
-            "website_suggest":"Suggest changes",
-            "website_tickets" :"Tickets"
-        
-        
-    },
-    "es": {
-        "explore": "Explorar",
-        "categories": "Categorías",
-        "servers": "Servidores",
-        "cube_helper": "Cube Helper",
-        "app_advice": "Descarga la app",
-        "logintext": "Iniciar sesión",
+    "footer_about": "About Minemev",
+    "about_terms": "Terms and Conditions",
+    "about_faq": "Frequently Asked Questions",
+    "about_about_us": "About us",
+    "about_contact": "Contact",
 
-        "new_post": "Nueva publicación",
-        "sub_menu_profile": "Perfil",
-        "sub_menu_report": "Reportar un problema",
-        "sub_menu_favorites": "Favoritos",
-        "sub_menu_logout": "Cerrar sesión",
+    "footer_website": "website",
+    "website_report": "Report a problem",
+    "website_suggest": "Suggest changes",
+    "website_tickets": "Tickets"
+  },
+  "es": {
+    "explore": "Explorar",
+    "categories": "Categorías",
+    "servers": "Servidores",
+    "cube_helper": "Cube Helper",
+    "app_advice": "Descarga la app",
+    "logintext": "Iniciar sesión",
 
-        "footer_copyright": "Copyright © 2022-2024 Minemev. Todos los derechos reservados. El contenido generado por los usuarios pertenece a sus creadores.",
-        "footer_disclaimer_1": "Esta página no está oficialmente asociada con ",
-        "footer_or": "o ",
-        "footer_disclaimer_2": ". Todo el contenido es responsabilidad de sus creadores. Minemev opera de manera independiente y no está vinculado a la página oficial de Minecraft.",
+    "new_post": "Nueva publicación",
+    "sub_menu_profile": "Perfil",
+    "sub_menu_report": "Reportar un problema",
+    "sub_menu_favorites": "Favoritos",
+    "sub_menu_logout": "Cerrar sesión",
 
-        "footer_socials": "Redes sociales",
+    "footer_copyright": "Copyright © 2022-2024 Minemev. Todos los derechos reservados. El contenido generado por los usuarios pertenece a sus creadores.",
+    "footer_disclaimer_1": "Esta página no está oficialmente asociada con ",
+    "footer_or": "o ",
+    "footer_disclaimer_2": ". Todo el contenido es responsabilidad de sus creadores. Minemev opera de manera independiente y no está vinculado a la página oficial de Minecraft.",
 
-        "footer_about": "Acerca de Minemev",
-            "about_terms": "Términos y condiciones",
-            "about_faq": "Preguntas frecuentes",
-            "about_about_us": "Sobre nosotros",
-            "about_contact": "Contacto",
-        "footer_website": "sitio web",
-            "website_report": "Reportar un problema",
-            "website_suggest": "Sugerir cambios",
-            "website_tickets": "Tickets"
-        
-    },
-    "ko": {
-        "explore": "찾기",
-        "categories": "카테고리",
-        "servers": "서버",
-        "cube_helper": "Cube Helper",
-        "app_advice": "앱 다운로드",
-        "logintext": "로그인",
-        
-        "new_post": "새 포스트",
-        "sub_menu_profile": "프로필",
-        "sub_menu_report": "문제 신고",
-        "sub_menu_favorites": "좋아요 표시한 글",
-        "sub_menu_logout": "로그아웃",
-        
-        "footer_copyright":"Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
-        "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
-        "footer_or" : "or ",
-        "footer_disclaimer_2":". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
+    "footer_socials": "Redes sociales",
 
+    "footer_about": "Acerca de Minemev",
+    "about_terms": "Términos y condiciones",
+    "about_faq": "Preguntas frecuentes",
+    "about_about_us": "Sobre nosotros",
+    "about_contact": "Contacto",
+    "footer_website": "sitio web",
+    "website_report": "Reportar un problema",
+    "website_suggest": "Sugerir cambios",
+    "website_tickets": "Tickets"
+  },
+  "ko": {
+    "explore": "찾기",
+    "categories": "카테고리",
+    "servers": "서버",
+    "cube_helper": "Cube Helper",
+    "app_advice": "앱 다운로드",
+    "logintext": "로그인",
 
-        "footer_socials": "소셜",
+    "new_post": "새 포스트",
+    "sub_menu_profile": "프로필",
+    "sub_menu_report": "문제 신고",
+    "sub_menu_favorites": "좋아요 표시한 글",
+    "sub_menu_logout": "로그아웃",
 
-        "footer_about":"Minemev 소개",
-            "about_terms" : "이용 약관",
-            "about_faq": "자주 묻는 질문",
-            "about_about_us": "소개",
-            "about_contact":"연락처",
+    "footer_copyright": "Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
+    "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
+    "footer_or": "or ",
+    "footer_disclaimer_2": ". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
 
-        "footer_website":"웹사이트",
-            "website_report" : "문제 신고",
-            "website_suggest":"개선 문의",
-            "website_tickets" :"Tickets"
- },
-    
-    "zh-hans": {
-        "explore": "发现",
-        "categories": "分类",
-        "servers": "服务器",
-        "cube_helper": "Cube Helper",
-        "app_advice": "下载软件",
-        "logintext": "登录",
-        
-        "new_post": "新帖子",
-        "sub_menu_profile": "主页",
-        "sub_menu_report": "提交问题",
-        "sub_menu_favorites": "收藏",
-        "sub_menu_logout": "登出",
-        
-        "footer_copyright":"Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
-        "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
-        "footer_or" : "or ",
-        "footer_disclaimer_2":". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
+    "footer_socials": "소셜",
 
+    "footer_about": "Minemev 소개",
+    "about_terms": "이용 약관",
+    "about_faq": "자주 묻는 질문",
+    "about_about_us": "소개",
+    "about_contact": "연락처",
 
-        "footer_socials": "社交媒体",
+    "footer_website": "웹사이트",
+    "website_report": "문제 신고",
+    "website_suggest": "개선 문의",
+    "website_tickets": "Tickets"
+  },
 
-        "footer_about":"关于 Minemev",
-            "about_terms" : "条款和条件",
-            "about_faq": "常见问题",
-            "about_about_us": "关于我们",
-            "about_contact":"联系",
+  "zh-hans": {
+    "explore": "发现",
+    "categories": "分类",
+    "servers": "服务器",
+    "cube_helper": "Cube Helper",
+    "app_advice": "下载软件",
+    "logintext": "登录",
 
-        "footer_website":"网站",
-            "website_report" : "提交问题",
-            "website_suggest":"修改建议",
-            "website_tickets" :"票"
-    },
-    "zh-hant": {},
-    "fr": {},
-    "ja": {
+    "new_post": "新帖子",
+    "sub_menu_profile": "主页",
+    "sub_menu_report": "提交问题",
+    "sub_menu_favorites": "收藏",
+    "sub_menu_logout": "登出",
 
-        "explore": "探索する",
-        "categories": "カテゴリー",
-        "servers": "サーバー",
-        "cube_helper": "キューブヘルパー",
-        "app_advice": "アプリをダウンロード",
-        "logintext": "ログイン",
-        
-        "new_post": "新しい投稿",
-        "sub_menu_profile": "プロフィール",
-        "sub_menu_report": "問題を報告",
-        "sub_menu_favorites": "お気に入り",
-        "sub_menu_logout": "ログアウト",
-        
-        "footer_copyright":"Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
-        "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
-        "footer_or" : "or ",
-        "footer_disclaimer_2":". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
+    "footer_copyright": "Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
+    "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
+    "footer_or": "or ",
+    "footer_disclaimer_2": ". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
 
+    "footer_socials": "社交媒体",
 
-        "footer_socials": "SNS",
+    "footer_about": "关于 Minemev",
+    "about_terms": "条款和条件",
+    "about_faq": "常见问题",
+    "about_about_us": "关于我们",
+    "about_contact": "联系",
 
-        "footer_about":"Minemevとは",
-            "about_terms" : "利用規約",
-            "about_faq": "よくある質問",
-            "about_about_us": "私たちについて",
-            "about_contact":"連絡",
+    "footer_website": "网站",
+    "website_report": "提交问题",
+    "website_suggest": "修改建议",
+    "website_tickets": "票"
+  },
+  "zh-hant": {},
+  "fr": {},
+  "ja": {
+    "explore": "探索する",
+    "categories": "カテゴリー",
+    "servers": "サーバー",
+    "cube_helper": "キューブヘルパー",
+    "app_advice": "アプリをダウンロード",
+    "logintext": "ログイン",
 
-        "footer_website":"ウェブサイト",
-            "website_report" : "問題を報告",
-            "website_suggest":"お問い合わせ",
-            "website_tickets" :"チケット"
+    "new_post": "新しい投稿",
+    "sub_menu_profile": "プロフィール",
+    "sub_menu_report": "問題を報告",
+    "sub_menu_favorites": "お気に入り",
+    "sub_menu_logout": "ログアウト",
 
+    "footer_copyright": "Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
+    "footer_disclaimer_1": "This page is not officially associated with or endorsed by ",
+    "footer_or": "or ",
+    "footer_disclaimer_2": ". All content on this page are the responsibility of its creators. Minemev operates independently and is not connected to the official Minecraft page or website.",
 
-    }
+    "footer_socials": "SNS",
+
+    "footer_about": "Minemevとは",
+    "about_terms": "利用規約",
+    "about_faq": "よくある質問",
+    "about_about_us": "私たちについて",
+    "about_contact": "連絡",
+
+    "footer_website": "ウェブサイト",
+    "website_report": "問題を報告",
+    "website_suggest": "お問い合わせ",
+    "website_tickets": "チケット"
+  }
 }

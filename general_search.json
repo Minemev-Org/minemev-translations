@@ -1,57 +1,54 @@
 {
-    "base": {
-        "version_input": "Version",
-        "version_all": "All Versions",
-        "sortby_input": "Sort by",
-        "search_input": "Search",
+  "base": {
+    "version_input": "Version",
+    "version_all": "All Versions",
+    "sortby_input": "Sort by",
+    "search_input": "Search",
 
-        "input_popular": "popular",
-        "input_newest": "newest",
-        "input_oldest": "oldest",
-        "input_downloads": "downloads",
+    "input_popular": "popular",
+    "input_newest": "newest",
+    "input_oldest": "oldest",
+    "input_downloads": "downloads",
 
-        "user_reference":"By"
-       
-    },
-    "es": {
-        "version_input": "Versión",
-        "version_all": "Todas las versiones",
-        "sortby_input": "Ordenar por",
-        "search_input": "Buscar",
+    "user_reference": "By"
+  },
+  "es": {
+    "version_input": "Versión",
+    "version_all": "Todas las versiones",
+    "sortby_input": "Ordenar por",
+    "search_input": "Buscar",
 
-        "input_popular": "Popular",
-        "input_newest": "Más reciente",
-        "input_oldest": "Más antiguo",
-        "input_downloads": "Descargas",
+    "input_popular": "Popular",
+    "input_newest": "Más reciente",
+    "input_oldest": "Más antiguo",
+    "input_downloads": "Descargas",
 
-        "user_reference":"Por"
-    },
-    "zh-hans": {
-        "version_input": "版本",
-        "version_all": "所有版本",
-        "sortby_input": "排序",
-        "search_input": "搜索",
+    "user_reference": "Por"
+  },
+  "zh-hans": {
+    "version_input": "版本",
+    "version_all": "所有版本",
+    "sortby_input": "排序",
+    "search_input": "搜索",
 
-        "input_popular": "点赞量",
-        "input_newest": "最新",
-        "input_oldest": "最旧",
-        "input_downloads": "下载量"
-       
-    },
-    "ko": {
-        "version_input": "버전",
-        "version_all": "전체",
-        "sortby_input": "정렬",
-        "search_input": "검색",
+    "input_popular": "点赞量",
+    "input_newest": "最新",
+    "input_oldest": "最旧",
+    "input_downloads": "下载量"
+  },
+  "ko": {
+    "version_input": "버전",
+    "version_all": "전체",
+    "sortby_input": "정렬",
+    "search_input": "검색",
 
-        "input_popular": "인기순",
-        "input_newest": "최신순",
-        "input_oldest": "과거순",
-        "input_downloads": "다운로드 수"
-       
-    },
-    "zh-hant": {},
-    "fr": {},
-    "ja": {},
-    "ko": {}
+    "input_popular": "인기순",
+    "input_newest": "최신순",
+    "input_oldest": "과거순",
+    "input_downloads": "다운로드 수"
+  },
+  "zh-hant": {},
+  "fr": {},
+  "ja": {},
+  "ko": {}
 }

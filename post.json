@@ -1,153 +1,149 @@
 {
-    "base": {
-        "owner_reference": "By",
+  "base": {
+    "owner_reference": "By",
 
-        "tab_overview": "Overview",
-        "file": "File",
-        "file_plural" : "Files",
+    "tab_overview": "Overview",
+    "file": "File",
+    "file_plural": "Files",
 
-        "download_plural":"Downloads",
-        "download":"Download",
+    "download_plural": "Downloads",
+    "download": "Download",
 
-        "tab_translations": "Translations",
-        "arch_change_tags" :"Change Tags",
+    "tab_translations": "Translations",
+    "arch_change_tags": "Change Tags",
 
-        "report":"Report",
-        "edit_post" :"Edit post",
-        "other_posts" : "other Other uploads By",
+    "report": "Report",
+    "edit_post": "Edit post",
+    "other_posts": "other Other uploads By",
 
-        "comments":"Comments",
-        "send_comments": "Send comment",
-        "new_comment":"new comment",
-        "comment_placeholder": "Say something...",
+    "comments": "Comments",
+    "send_comments": "Send comment",
+    "new_comment": "new comment",
+    "comment_placeholder": "Say something...",
 
-        "file_table_verified":"Verified",
-       
-        "file_table_description":"Description",
-        "file_table_versions":"Versions",
-        "file_table_size":"Size",
-        "file_table_download":"Download",
+    "file_table_verified": "Verified",
 
-        "translation_table_user":"User",
-        "translation_table_lang":"Language",
-        "translation_table_Date":"Date",
-        "translation_table_times":"times translated",
-        "translation_table_options":"Options",
-            "option_delete": "Delete",
-            "option_edit":"Edit",            
-        "select_option": "select translation",
+    "file_table_description": "Description",
+    "file_table_versions": "Versions",
+    "file_table_size": "Size",
+    "file_table_download": "Download",
 
+    "translation_table_user": "User",
+    "translation_table_lang": "Language",
+    "translation_table_Date": "Date",
+    "translation_table_times": "times translated",
+    "translation_table_options": "Options",
+    "option_delete": "Delete",
+    "option_edit": "Edit",
+    "select_option": "select translation",
 
-        "verif_fail":"This post hasn't been analyzed yet, so we can't guarantee its safety.",
+    "verif_fail": "This post hasn't been analyzed yet, so we can't guarantee its safety.",
 
-        "verif_succes": "Verified safe",
+    "verif_succes": "Verified safe",
 
-        "translation_message":"dont find a translation?",
-        "translation_bbtn":"Make it",
+    "translation_message": "dont find a translation?",
+    "translation_bbtn": "Make it",
 
-        "add_note" : "Add a note"
+    "add_note": "Add a note"
+  },
+  "es": {
+    "owner_reference": "Por",
 
-    },
-    "es": {
-        "owner_reference": "Por",
+    "tab_overview": "Resumen",
+    "file": "Archivo",
+    "file_plural": "Archivos",
 
-        "tab_overview": "Resumen",
-        "file": "Archivo",
-        "file_plural": "Archivos",
-    
-        "download_plural": "Descargas",
-        "download": "Descargar",
-    
-        "tab_translations": "Traducciones",
-        "arch_change_tags": "Cambiar categorias",
-    
-        "report": "Reportar",
-        "edit_post": "Editar publicación",
-        "other_posts": "Otras publicaciones de",
-    
-        "comments": "Comentarios",
-        "send_comments": "Enviar comentario",
-        "new_comment": "nuevo comentario",
-        "comment_placeholder": "Di algo...",
-    
-        "file_table_verified": "Verificado",
-    
-        "file_table_description": "Descripción",
-        "file_table_versions": "Versiones",
-        "file_table_size": "Tamaño",
-        "file_table_download": "Descargar",
-    
-        "translation_table_user": "Usuario",
-        "translation_table_lang": "Idioma",
-        "translation_table_Date": "Fecha",
-        "translation_table_times": "veces traducido",
-        "translation_table_options": "Opciones",
-            "option_delete": "Eliminar",
-            "option_edit":"Editar",
-        "select_option": "selecciona una traducción",
-    
-        "verif_fail": "Esta publicación aún no ha sido analizada, por lo que no podemos garantizar su seguridad.",
-    
-        "verif_succes": "Verificado como seguro",
-        "add_note": "Agregar una nota",
+    "download_plural": "Descargas",
+    "download": "Descargar",
 
-        "translation_message":"no encuentras tu traduccion?",
-        "translation_bbtn": "¡Hazla!"
-    },
-    "zh-hans": {
-                "owner_reference": "发布者",
+    "tab_translations": "Traducciones",
+    "arch_change_tags": "Cambiar categorias",
 
-        "tab_overview": "概述",
-        "file": "文件",
-        "file_plural" : "文件",
+    "report": "Reportar",
+    "edit_post": "Editar publicación",
+    "other_posts": "Otras publicaciones de",
 
-        "download_plural":"下载",
-        "download":"下载",
+    "comments": "Comentarios",
+    "send_comments": "Enviar comentario",
+    "new_comment": "nuevo comentario",
+    "comment_placeholder": "Di algo...",
 
-        "tab_translations": "翻译",
-        "arch_change_tags" :"修改标签",
+    "file_table_verified": "Verificado",
 
-        "report":"举报",
-        "edit_post" :"编辑帖子",
-        "other_posts" : "他的其他帖子",
+    "file_table_description": "Descripción",
+    "file_table_versions": "Versiones",
+    "file_table_size": "Tamaño",
+    "file_table_download": "Descargar",
 
-        "comments":"评论",
-        "send_comments": "添加评论",
-        "new_comment":"新评论",
-        "comment_placeholder": "说点什么...",
+    "translation_table_user": "Usuario",
+    "translation_table_lang": "Idioma",
+    "translation_table_Date": "Fecha",
+    "translation_table_times": "veces traducido",
+    "translation_table_options": "Opciones",
+    "option_delete": "Eliminar",
+    "option_edit": "Editar",
+    "select_option": "selecciona una traducción",
 
-        "file_table_verified":"已验证",
-       
-        "file_table_description":"简介",
-        "file_table_versions":"游戏版本",
-        "file_table_size":"文件大小",
-        "file_table_download":"下载",
+    "verif_fail": "Esta publicación aún no ha sido analizada, por lo que no podemos garantizar su seguridad.",
 
-        "translation_table_user":"用户",
-        "translation_table_lang":"语言",
-        "translation_table_Date":"日期",
-        "translation_table_times":"翻译次数",
-        "translation_table_options":"选项",
-            "option_delete": "删除",
-            "option_edit":"修改",            
-        "select_option": "选择翻译",
+    "verif_succes": "Verificado como seguro",
+    "add_note": "Agregar una nota",
 
+    "translation_message": "no encuentras tu traduccion?",
+    "translation_bbtn": "¡Hazla!"
+  },
+  "zh-hans": {
+    "owner_reference": "发布者",
 
-        "verif_fail":"本帖尚未经过验证，因此我们无法保证其安全性。",
+    "tab_overview": "概述",
+    "file": "文件",
+    "file_plural": "文件",
 
-        "verif_succes": "已验证安全",
+    "download_plural": "下载",
+    "download": "下载",
 
-        "translation_message":"找不到翻译？",
-        "translation_bbtn":"自己做一个",
+    "tab_translations": "翻译",
+    "arch_change_tags": "修改标签",
 
-        "add_note" : "添加说明"
+    "report": "举报",
+    "edit_post": "编辑帖子",
+    "other_posts": "他的其他帖子",
 
-    },
-    "zh-hant": {},
-    "fr": {},
-    "ja": {},
-    "ko": {},
-    "ru": {},
-    "de": {},
-    "hi": {}
+    "comments": "评论",
+    "send_comments": "添加评论",
+    "new_comment": "新评论",
+    "comment_placeholder": "说点什么...",
+
+    "file_table_verified": "已验证",
+
+    "file_table_description": "简介",
+    "file_table_versions": "游戏版本",
+    "file_table_size": "文件大小",
+    "file_table_download": "下载",
+
+    "translation_table_user": "用户",
+    "translation_table_lang": "语言",
+    "translation_table_Date": "日期",
+    "translation_table_times": "翻译次数",
+    "translation_table_options": "选项",
+    "option_delete": "删除",
+    "option_edit": "修改",
+    "select_option": "选择翻译",
+
+    "verif_fail": "本帖尚未经过验证，因此我们无法保证其安全性。",
+
+    "verif_succes": "已验证安全",
+
+    "translation_message": "找不到翻译？",
+    "translation_bbtn": "自己做一个",
+
+    "add_note": "添加说明"
+  },
+  "zh-hant": {},
+  "fr": {},
+  "ja": {},
+  "ko": {},
+  "ru": {},
+  "de": {},
+  "hi": {}
 }
