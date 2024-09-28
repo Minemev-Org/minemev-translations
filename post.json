@@ -14,11 +14,11 @@
 
     "report": "Report",
     "edit_post": "Edit post",
-    "other_posts": "other Other uploads By",
+    "other_posts": "Other uploads by",
 
     "comments": "Comments",
-    "send_comments": "Send comment",
-    "new_comment": "new comment",
+    "send_comments": "Comment",
+    "new_comment": "New comment",
     "comment_placeholder": "Say something...",
 
     "file_table_verified": "Verified",
@@ -35,14 +35,14 @@
     "translation_table_options": "Options",
     "option_delete": "Delete",
     "option_edit": "Edit",
-    "select_option": "select translation",
+    "select_option": "Select translation",
 
     "verif_fail": "This post hasn't been analyzed yet, so we can't guarantee its safety.",
 
     "verif_succes": "Verified safe",
 
-    "translation_message": "dont find a translation?",
-    "translation_bbtn": "Make it",
+    "translation_message": "Can't find a translation for your language?",
+    "translation_bbtn": "Make it here!",
 
     "add_note": "Add a note"
   },
@@ -57,16 +57,16 @@
     "download": "Descargar",
 
     "tab_translations": "Traducciones",
-    "arch_change_tags": "Cambiar categorias",
+    "arch_change_tags": "Cambiar categorías",
 
     "report": "Reportar",
     "edit_post": "Editar publicación",
     "other_posts": "Otras publicaciones de",
 
     "comments": "Comentarios",
-    "send_comments": "Enviar comentario",
-    "new_comment": "nuevo comentario",
-    "comment_placeholder": "Di algo...",
+    "send_comments": "Comentar",
+    "new_comment": "Nuevo comentario",
+    "comment_placeholder": "Escribe algo...",
 
     "file_table_verified": "Verificado",
 
@@ -82,15 +82,15 @@
     "translation_table_options": "Opciones",
     "option_delete": "Eliminar",
     "option_edit": "Editar",
-    "select_option": "selecciona una traducción",
+    "select_option": "Selecciona una traducción",
 
     "verif_fail": "Esta publicación aún no ha sido analizada, por lo que no podemos garantizar su seguridad.",
 
-    "verif_succes": "Verificado como seguro",
-    "add_note": "Agregar una nota",
+    "verif_succes": "Descarga verificada", 
+    "add_note": "Añadir una nota",
 
-    "translation_message": "no encuentras tu traduccion?",
-    "translation_bbtn": "¡Hazla!"
+    "translation_message": "No encuentras una traducción para tu idioma?",
+    "translation_bbtn": "¡Hazla aquí!"
   },
   "zh-hans": {
     "owner_reference": "发布者",
