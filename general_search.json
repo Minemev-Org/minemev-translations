@@ -5,10 +5,10 @@
     "sortby_input": "Sort by",
     "search_input": "Search",
 
-    "input_popular": "popular",
-    "input_newest": "newest",
-    "input_oldest": "oldest",
-    "input_downloads": "downloads",
+    "input_popular": "Popular",
+    "input_newest": "Newest",
+    "input_oldest": "Oldest",
+    "input_downloads": "Downloads",
 
     "user_reference": "By"
   },

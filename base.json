@@ -5,7 +5,7 @@
     "servers": "Servers",
     "cube_helper": "Cube Helper",
     "app_advice": "Download the app",
-    "logintext": "login",
+    "logintext": "Login",
 
     "new_post": "New post",
     "sub_menu_profile": "Profile",
@@ -26,7 +26,7 @@
     "about_about_us": "About us",
     "about_contact": "Contact",
 
-    "footer_website": "website",
+    "footer_website": "Website",
     "website_report": "Report a problem",
     "website_suggest": "Suggest changes",
     "website_tickets": "Tickets"
@@ -57,7 +57,7 @@
     "about_faq": "Preguntas frecuentes",
     "about_about_us": "Sobre nosotros",
     "about_contact": "Contacto",
-    "footer_website": "sitio web",
+    "footer_website": "Sitio web",
     "website_report": "Reportar un problema",
     "website_suggest": "Sugerir cambios",
     "website_tickets": "Tickets"
