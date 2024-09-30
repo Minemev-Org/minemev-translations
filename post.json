@@ -1,6 +1,6 @@
 {
   "base": {
-    "owner_reference": "By",
+    "owner_reference": "posted By",
 
     "tab_overview": "Overview",
     "file": "File",
@@ -47,7 +47,7 @@
     "add_note": "Add a note"
   },
   "es": {
-    "owner_reference": "Por",
+    "owner_reference": "Publicado por",
 
     "tab_overview": "Resumen",
     "file": "Archivo",
