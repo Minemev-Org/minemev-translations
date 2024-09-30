@@ -32,7 +32,8 @@
     "website_tickets" :"Tickets",
 
         "popular_cats": "Popular Categories",
-        "reset_categ": "Reset Categories"
+        "reset_categ": "Reset Categories",
+        "sub_categories":"Sub categories"
   },
   "es": {
     "explore": "Explorar",
@@ -66,7 +67,8 @@
     "website_tickets" :"Tickets",
 
         "popular_cats": "Categorias principales",
-        "reset_categ": "reiniciar"
+        "reset_categ": "reiniciar",
+        "sub_categories":"Sub categorias"
     
   },
   "ko": {
