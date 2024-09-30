@@ -29,7 +29,10 @@
     "footer_website": "Website",
     "website_report": "Report a problem",
     "website_suggest": "Suggest changes",
-    "website_tickets": "Tickets"
+    "website_tickets" :"Tickets",
+
+        "popular_cats": "Popular Categories",
+        "reset_categ": "Reset Categories"
   },
   "es": {
     "explore": "Explorar",
@@ -60,7 +63,11 @@
     "footer_website": "Sitio web",
     "website_report": "Reportar un problema",
     "website_suggest": "Sugerir cambios",
-    "website_tickets": "Tickets"
+    "website_tickets" :"Tickets",
+
+        "popular_cats": "Categorias principales",
+        "reset_categ": "reiniciar"
+    
   },
   "ko": {
     "explore": "찾기",
