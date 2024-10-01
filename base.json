@@ -134,7 +134,11 @@
     "footer_website": "网站",
     "website_report": "提交问题",
     "website_suggest": "修改建议",
-    "website_tickets": "票"
+    "website_tickets": "票",
+    
+        "popular_cats": "热门分类",
+        "reset_categ": "重置分类",
+        "sub_categories":"子分类"
   },
   "zh-hant": {},
   "fr": {},
