@@ -72,7 +72,7 @@
     
   },
   "ko": {
-    "explore": "찾기",
+    "explore": "탐색",
     "categories": "카테고리",
     "servers": "서버",
     "cube_helper": "Cube Helper",
@@ -82,7 +82,7 @@
     "new_post": "새 포스트",
     "sub_menu_profile": "프로필",
     "sub_menu_report": "문제 신고",
-    "sub_menu_favorites": "좋아요 표시한 글",
+    "sub_menu_favorites": "즐겨찾기",
     "sub_menu_logout": "로그아웃",
 
     "footer_copyright": "Copyright © 2022- 2024 Minemev. All rights reserved. Content posted by users is the property of the respective creators.",
@@ -99,9 +99,13 @@
     "about_contact": "연락처",
 
     "footer_website": "웹사이트",
-    "website_report": "문제 신고",
-    "website_suggest": "개선 문의",
-    "website_tickets": "Tickets"
+    "website_report": "신고",
+    "website_suggest": "문의",
+    "website_tickets" :"티켓",
+
+        "popular_cats": "인기 카테고리",
+        "reset_categ": "카테고리 초기화",
+        "sub_categories":"서브 카테고리"
   },
 
   "zh-hans": {
