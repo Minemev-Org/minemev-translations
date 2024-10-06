@@ -142,7 +142,53 @@
   "zh-hant": {},
   "fr": {},
   "ja": {},
-  "ko": {},
+  "ko": {
+    "owner_reference": "글쓴이",
+
+    "tab_overview": "Overview",
+    "file": "파일",
+    "file_plural": "파일",
+
+    "download_plural": "다운로드",
+    "download": "다운로드",
+
+    "tab_translations": "Translations",
+    "arch_change_tags": "Change Tags",
+
+    "report": "Report",
+    "edit_post": "Edit post",
+    "other_posts": "Other uploads by",
+
+    "comments": "Comments",
+    "send_comments": "Comment",
+    "new_comment": "New comment",
+    "comment_placeholder": "Say something...",
+
+    "file_table_verified": "Verified",
+
+    "file_table_description": "Description",
+    "file_table_versions": "Versions",
+    "file_table_size": "Size",
+    "file_table_download": "Download",
+
+    "translation_table_user": "User",
+    "translation_table_lang": "Language",
+    "translation_table_Date": "Date",
+    "translation_table_times": "times translated",
+    "translation_table_options": "Options",
+    "option_delete": "Delete",
+    "option_edit": "Edit",
+    "select_option": "Select translation",
+
+    "verif_fail": "This post hasn't been analyzed yet, so we can't guarantee its safety.",
+
+    "verif_succes": "Verified safe",
+
+    "translation_message": "Can't find a translation for your language?",
+    "translation_bbtn": "Make it here!",
+
+    "add_note": "Add a note"
+  },
   "ru": {},
   "de": {},
   "hi": {}
