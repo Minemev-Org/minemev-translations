@@ -10,7 +10,7 @@
     "input_oldest": "Oldest",
     "input_downloads": "Downloads",
 
-    "user_reference": "By"
+    "user_reference": "Posted by"
   },
   "es": {
     "version_input": "Versión",
@@ -23,7 +23,7 @@
     "input_oldest": "Más antiguo",
     "input_downloads": "Descargas",
 
-    "user_reference": "Por"
+    "user_reference": "Publicado por"
   },
   "zh-hans": {
     "version_input": "版本",
